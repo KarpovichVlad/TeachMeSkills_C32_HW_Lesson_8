@@ -1,1 +1,3 @@
-# TeachMeSkills_C32_HW_Lesson_8
+# Here, the following tasks are implemented:
+
+TODO is involved in this project
